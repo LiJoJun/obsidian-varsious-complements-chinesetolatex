@@ -1,17 +1,22 @@
-note::> [!note|笔记] #
-tip::> [!tip|要点] #
-info::> [!info|信息] #
-warning::> [!warning|警告] #
-danger::> [!danger|危险] #
-success::> [!success|通过] #
-failure::> [!failure|失败] #
-question::> [!question|疑问] #
-todo::> [!todo|待办] #
-quote::> [!quote|引用] #
-example::> [!example|示例] #
-summary::> [!summary|摘要] #
-definition::> [!definition|定义] #
-idea::> [!idea|思路] #
-important::> [!important|重点] #
-hint::> [!hint|备忘] #
-reference::> [!reference|参考] #
+>[提示::>[!note|提示] #
+>[信息::>[!info|信息] #
+>[注意::>[!notice|注意] #
+>[警告::>[!warning|警告] #
+>[危险::>[!danger|危险] #
+>[问题::>[!question|问题] #
+>[成功::>[!success|成功] #
+>[失败::>[!failure|失败] #
+>[待办::>[!todo|待办] #
+>[引用::>[!quote|引用] #
+>[摘要::>[!summary|摘要] #
+>[示例::>[!example|示例] #
+>[贴士::>[!tip|贴士] #
+>[参考::>[!reference|参考] #
+>[定义::>[!definition|定义] #
+>[思路::>[!idea|思路] #
+>[重点::>[!important|重点] #
+>[备忘::>[!hint|备忘] #
+>[定理::>[!note|定理] #
+>[证明::>[!note|证明] #
+>[推论::>[!note|推论] #
+>[例题::>[!example|例题] #
