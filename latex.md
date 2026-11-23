@@ -1,21 +1,16 @@
-矩阵::\begin{matrix}
-# &  &  \\
+矩阵::\begin{matrix}# &  &  \\
  &  & 
 \end{matrix}
-括号矩阵::\begin{pmatrix}
-# &  \\
+括号矩阵::\begin{pmatrix}# &  \\
  & 
 \end{pmatrix}
-方括号矩阵::\begin{bmatrix}
-# &  \\
+方括号矩阵::\begin{bmatrix}# &  \\
  & 
 \end{bmatrix}
-行列式::\begin{vmatrix}
-# &  \\
+行列式::\begin{vmatrix}# &  \\
  & 
 \end{vmatrix}
-分段函数::\begin{cases}
-# &  \\
+分段函数::\begin{cases}# &  \\
  & 
 \end{cases}
 幂指数::^{#}
