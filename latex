@@ -1,0 +1,94 @@
+积分::\int_{#}^{#} # \mathrm{d}#
+二重积分::\iint_{#} # \mathrm{d}#\mathrm{d}#
+三重积分::\iiint_{#} # \mathrm{d}#\mathrm{d}#\mathrm{d}#
+环路积分::\oint_{#} # \mathrm{d}#
+导数::\frac{\mathrm{d}#}{\mathrm{d}#}
+偏导数::\frac{\partial #}{\partial #}
+微分::\mathrm{d}#
+连乘::\prod_{#}^{#} #
+并集::\cup
+交集::\cap
+阿尔法::\alpha
+贝塔::\beta
+伽马::\gamma
+德尔塔::\delta
+艾普西龙::\epsilon
+西塔::\theta
+拉姆达::\lambda
+缪::\mu
+派::\pi
+西格玛::\sigma
+斐::\phi
+欧米伽::\omega
+卡帕::\kappa
+柔::\rho
+陶::\tau
+普西::\psi
+大写伽马::\Gamma
+大写德尔塔::\Delta
+大写西塔::\Theta
+大写拉姆达::\Lambda
+大写派::\Pi
+大写西格玛::\Sigma
+大写斐::\Phi
+大写欧米伽::\Omega
+乘::\times
+点乘::\cdot
+除::\div
+加减::\pm
+约等于::\approx
+不等于::\neq
+小于等于::\le
+大于等于::\ge
+属于::\in
+子集::\subset
+包含于::\subseteq
+无穷::\infty
+空集::\emptyset
+存在::\exists
+任意::\forall
+蕴含::\Rightarrow
+等价::\Leftrightarrow
+箭头到::\to
+右箭头::\rightarrow
+左箭头::\leftarrow
+相似::\sim
+全等::\cong
+帽子::\hat{#}
+波浪号::\tilde{#}
+下划线::\underline{#}
+加粗::\mathbf{#}
+花体::\mathcal{#}
+黑板粗体::\mathbb{#}
+居中省略号::\cdots
+基线省略号::\ldots
+圆括号对::\left( # \right)
+绝对值::\left| # \right|
+范数::\left\| # \right\|
+上括号::\overbrace{#}^{#}
+下括号::\underbrace{#}_{#}
+向量::\vec{#}
+正弦::\sin
+余弦::\cos
+正切::\tan
+对数::\log_{#} #
+自然对数::\ln
+指数函数::\exp
+最大值::\max
+最小值::\min
+行列式名::\det
+反正切::\arctan
+矩阵::\begin{matrix} # \end{matrix}
+方阵::\begin{pmatrix} # \end{pmatrix}
+大括号矩阵::\begin{Bmatrix} # \end{Bmatrix}
+中括号矩阵::\begin{bmatrix} # \end{bmatrix}
+竖线行列式::\begin{vmatrix} # \end{vmatrix}
+求和::\sum_{#}^{#} #
+极限::\lim_{# \to #} #
+组合::\mathrm{C}_{#}^{#}
+排列::\mathrm{A}_{#}^{#}
+阶乘::#!
+根号::\sqrt{#}
+n次根号::\sqrt[#]{#}
+上标::#^{#}
+下标::#_{#}
