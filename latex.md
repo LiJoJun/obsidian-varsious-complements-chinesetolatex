@@ -1,8 +1,8 @@
-矩阵::\begin{matrix}# &  &  \\&  & \end{matrix}
-括号矩阵::\begin{pmatrix}# &  \\& \end{pmatrix}
-方括号矩阵::\begin{bmatrix}# &  \\ & \end{bmatrix}
-行列式::\begin{vmatrix}# &  \\& \end{vmatrix}
-分段函数::\begin{cases}# &  \\& \end{cases}
+矩阵::\begin{matrix}# &  &  \n&  & \end{matrix}
+括号矩阵::\begin{pmatrix}# &  \n& \end{pmatrix}
+方括号矩阵::\begin{bmatrix}# &  \n & \end{bmatrix}
+行列式::\begin{vmatrix}# &  \n& \end{vmatrix}
+分段函数::\begin{cases}# &  \n& \end{cases}
 幂指数::^{#}
 下标::_{#}
 分式::\frac{#}{}
