@@ -6,10 +6,8 @@
 # &  \\
  & 
 \end{pmatrix}
-方括号矩阵::\begin{bmatrix}
-# &  \\
- & 
-\end{bmatrix}
+方括号矩阵::\begin{bmatrix} # &  \\ &  \end{bmatrix}
+
 行列式::\begin{vmatrix}
 # &  \\
  & 
