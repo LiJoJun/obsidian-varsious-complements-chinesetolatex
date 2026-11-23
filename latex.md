@@ -1,5 +1,5 @@
 积分::\int_{#}^{#} # \mathrm{d}#
-二重积分::\iint_{#} # \mathrm{d}#\mathrm{d}#
+iint::\iint_{#} # \mathrm{d}#\mathrm{d}#
 三重积分::\iiint_{#} # \mathrm{d}#\mathrm{d}#\mathrm{d}#
 环路积分::\oint_{#} # \mathrm{d}#
 导数::\frac{\mathrm{d}#}{\mathrm{d}#}
