@@ -20,9 +20,3 @@ c定理::>[!note] #
 c证明::>[!note] #
 c推论::>[!note] #
 c例题::>[!example] #
-c折叠提示::>[!note+] #
-c折叠警告::>[!warning+] #
-c折叠危险::>[!danger+] #
-c折叠信息::>[!info+] #
-c折叠关闭::>[!note-] #
-c折叠定理::>[!note+] #
