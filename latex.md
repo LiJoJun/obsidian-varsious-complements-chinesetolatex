@@ -1,7 +1,7 @@
-积分::\int_{#}^{#} # \mathrm{d}#
-int2::\iint_{#} # \mathrm{d}#\mathrm{d}#
-三重积分::\iiint_{#} # \mathrm{d}#\mathrm{d}#\mathrm{d}#
-环路积分::\oint_{#} # \mathrm{d}#
+积分::\int_{#}^{#} 
+二重积分::\iint_{#}^{#}
+三重积分::\iiiint_{#}^{#}
+环路积分::\oint_{#}
 导数::\frac{\mathrm{d}#}{\mathrm{d}#}
 偏导数::\frac{\partial #}{\partial #}
 微分::\mathrm{d}#
